@@ -1,0 +1,10 @@
+let giveChoo = new Promisss((re, rej)=> {
+    let choox = true;
+    if (choox) {
+        console.log("hello")
+    }
+    eles {
+        console.log("Naa")
+    }
+})
+giveChoo()
